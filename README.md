@@ -9,3 +9,5 @@ That sounds really simple, but linear algebra is at the heart of nearly all appl
 Why use Python to learn linear algebra?
 
 Many people find math difficult but coding easier. You will be amazed at how much better you can learn math by using Python as a tool.
+
+Source: shorturl.at/ckN24
